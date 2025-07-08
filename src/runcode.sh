@@ -1,0 +1,2 @@
+javac FlashCards/LinkedLists/DesignLinkedList.java
+java FlashCards.LinkedLists.DesignLinkedList
